@@ -1,0 +1,203 @@
+// Vitest Snapshot v1
+
+exports[`Upload > should match snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="_container_fd78da"
+      >
+        <div
+          class="_header_6c7c0d"
+        >
+          <h1
+            class="_title_6c7c0d subtitle"
+          >
+            Конвертер видео
+          </h1>
+          <p
+            class="_text_6c7c0d text"
+          >
+            Video Converter - это онлайн-конвертер видео, который позволяет конвертировать видеофайлы в таких форматах, как MP4, AVI, GIF, MOV и другие.
+          </p>
+        </div>
+        <div
+          class="_container_c96111"
+        >
+          <div
+            class="_dropzone_c96111"
+            data-testid="dropzone-container"
+          >
+            <input
+              accept=".mp4, .flv, .m4v, .mov"
+              class="_input_c96111"
+              data-testid="dropzone-input"
+              type="file"
+            />
+            <div
+              class="_icon_c96111"
+            >
+              <svg
+                class="icon icon-upload-video"
+                data-testid="icon"
+                height="16"
+                stroke=""
+                width="16"
+              >
+                <use
+                  xlink:href="/src/assets/img/general/icons.svg#upload-video"
+                />
+              </svg>
+            </div>
+            <p
+              class="subtitle _subtitle_c96111"
+            >
+              Перетащите видеофайл в эту область
+            </p>
+            <p
+              class="text text_small _text_c96111"
+            >
+              или нажмите на кнопку
+            </p>
+            <button
+              class="_button_b22f72 _button_c96111 _primary_b22f72"
+            >
+              Выбрать файл
+            </button>
+          </div>
+          <div
+            class="_background_c96111"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="_container_fd78da"
+    >
+      <div
+        class="_header_6c7c0d"
+      >
+        <h1
+          class="_title_6c7c0d subtitle"
+        >
+          Конвертер видео
+        </h1>
+        <p
+          class="_text_6c7c0d text"
+        >
+          Video Converter - это онлайн-конвертер видео, который позволяет конвертировать видеофайлы в таких форматах, как MP4, AVI, GIF, MOV и другие.
+        </p>
+      </div>
+      <div
+        class="_container_c96111"
+      >
+        <div
+          class="_dropzone_c96111"
+          data-testid="dropzone-container"
+        >
+          <input
+            accept=".mp4, .flv, .m4v, .mov"
+            class="_input_c96111"
+            data-testid="dropzone-input"
+            type="file"
+          />
+          <div
+            class="_icon_c96111"
+          >
+            <svg
+              class="icon icon-upload-video"
+              data-testid="icon"
+              height="16"
+              stroke=""
+              width="16"
+            >
+              <use
+                xlink:href="/src/assets/img/general/icons.svg#upload-video"
+              />
+            </svg>
+          </div>
+          <p
+            class="subtitle _subtitle_c96111"
+          >
+            Перетащите видеофайл в эту область
+          </p>
+          <p
+            class="text text_small _text_c96111"
+          >
+            или нажмите на кнопку
+          </p>
+          <button
+            class="_button_b22f72 _button_c96111 _primary_b22f72"
+          >
+            Выбрать файл
+          </button>
+        </div>
+        <div
+          class="_background_c96111"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;

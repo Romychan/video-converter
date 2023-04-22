@@ -1,0 +1,27 @@
+.timeline {
+  -webkit-appearance: none !important;
+  background: var(--color-primary);
+  border-radius: 20px;
+  height: 4px;
+  width: 100%;
+  cursor: pointer;
+
+  &:hover::-webkit-slider-thumb {
+    opacity: 1;
+  }
+
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    opacity: 0;
+    cursor: pointer;
+    height: 14px;
+    width: 14px;
+    background: var(--color-primary);
+    border-radius: 120px;
+    transition: 0.2s;
+  }
+
+  &::-moz-range-progress {
+    background: var(--color-primary);
+  }
+}

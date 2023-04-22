@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  backend:
+    container_name: backend-converter-container
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+      - 5000:5000
+    volumes:
+      - ./server:/usr/src/app
+      - /usr/src/app/node_modules
+  frontend:
+    container_name: frontend-converter-container
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    volumes:
+      - ./client/:/usr/src/app
+      - /usr/src/app/node_modules
+    tty: true
+    stdin_open: true
+    depends_on:
+      - backend

@@ -1,0 +1,31 @@
+:root {
+  --container-size: 1200px;
+  --letter-spacing-size: '0.01rem';
+
+  --text-family-regular: 'Montserrat-Regular';
+  --text-family-medium: 'Montserrat-Medium';
+
+  --text-color-primary: #012033;
+  --text-color-secondary: #465773;
+  --text-color-opacity: #7b8799;
+
+  --color-primary: #040303;
+  --color-primary-hover: #242424;
+  --color-primary-active: #0b0c0c;
+
+  --color-secondary: rgba(0, 0, 0, 0.03);
+  --color-secondary-hover: rgba(0, 0, 0, 0.07);
+  --color-secondary-active: #ebf0f2;
+
+  --color-background: #ffffff;
+  --color-border: #e2e9ed;
+  --color-red: #ff4158;
+  --color-green: #32af6a;
+  --color-gray: #9ca3af;
+
+  --radius-default: 45px;
+  --radius-medium: 15px;
+  --radius-small: 7px;
+
+  --shadow: 0px 1px 32px 1px rgba(10, 79, 108, 0.06);
+}

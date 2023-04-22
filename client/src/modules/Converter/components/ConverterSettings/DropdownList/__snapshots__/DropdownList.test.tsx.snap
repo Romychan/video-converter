@@ -1,0 +1,399 @@
+// Vitest Snapshot v1
+
+exports[`DropdownList > should match snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h3
+          class="_label_b2c890"
+          data-testid="dropdown-label"
+        >
+          Формат
+        </h3>
+        <div
+          class="_dropdown_b2c890"
+          data-testid="dropdown-container"
+        >
+          <div
+            class="_title_b2c890"
+            data-testid="dropdown-header"
+          >
+            .MP4
+            <svg
+              class="icon icon-arrow _icon_b2c890"
+              data-testid="icon"
+              height="11"
+              stroke=""
+              width="11"
+            >
+              <use
+                xlink:href="/src/assets/img/general/icons.svg#arrow"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3
+          class="_label_b2c890"
+          data-testid="dropdown-label"
+        >
+          Качество
+        </h3>
+        <div
+          class="_dropdown_b2c890"
+          data-testid="dropdown-container"
+        >
+          <div
+            class="_title_b2c890"
+            data-testid="dropdown-header"
+          >
+            360p
+            <svg
+              class="icon icon-arrow _icon_b2c890"
+              data-testid="icon"
+              height="11"
+              stroke=""
+              width="11"
+            >
+              <use
+                xlink:href="/src/assets/img/general/icons.svg#arrow"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_accordion_7e54ec"
+        data-testid="accordion"
+      >
+        <div
+          class="_header_7e54ec"
+          data-testid="accordion-header"
+        >
+          <div
+            class="_square_7e54ec"
+          >
+            <svg
+              class="icon icon-plus _icon_7e54ec"
+              data-testid="icon"
+              height="14"
+              stroke=""
+              width="14"
+            >
+              <use
+                xlink:href="/src/assets/img/general/icons.svg#plus"
+              />
+            </svg>
+          </div>
+          <h3
+            class="_title_7e54ec"
+          >
+            Дополнительные настройки
+          </h3>
+        </div>
+        <div
+          class="_body_7e54ec"
+          data-testid="accordion-body"
+          style="max-height: 0px;"
+        >
+          <div
+            class="_content_7e54ec"
+          >
+            <div
+              class="_container_02ec06"
+            >
+              <div>
+                <h3
+                  class="_label_b2c890"
+                  data-testid="dropdown-label"
+                >
+                  Кадры в секунду (FPS)
+                </h3>
+                <div
+                  class="_dropdown_b2c890"
+                  data-testid="dropdown-container"
+                >
+                  <div
+                    class="_title_b2c890"
+                    data-testid="dropdown-header"
+                  >
+                    24 FPS
+                    <svg
+                      class="icon icon-arrow _icon_b2c890"
+                      data-testid="icon"
+                      height="11"
+                      stroke=""
+                      width="11"
+                    >
+                      <use
+                        xlink:href="/src/assets/img/general/icons.svg#arrow"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <h3
+                  class="_label_b2c890"
+                  data-testid="dropdown-label"
+                >
+                  Аудиоканал
+                </h3>
+                <div
+                  class="_dropdown_b2c890"
+                  data-testid="dropdown-container"
+                >
+                  <div
+                    class="_title_b2c890"
+                    data-testid="dropdown-header"
+                  >
+                    Стерео
+                    <svg
+                      class="icon icon-arrow _icon_b2c890"
+                      data-testid="icon"
+                      height="11"
+                      stroke=""
+                      width="11"
+                    >
+                      <use
+                        xlink:href="/src/assets/img/general/icons.svg#arrow"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h3
+        class="_label_b2c890"
+        data-testid="dropdown-label"
+      >
+        Формат
+      </h3>
+      <div
+        class="_dropdown_b2c890"
+        data-testid="dropdown-container"
+      >
+        <div
+          class="_title_b2c890"
+          data-testid="dropdown-header"
+        >
+          .MP4
+          <svg
+            class="icon icon-arrow _icon_b2c890"
+            data-testid="icon"
+            height="11"
+            stroke=""
+            width="11"
+          >
+            <use
+              xlink:href="/src/assets/img/general/icons.svg#arrow"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h3
+        class="_label_b2c890"
+        data-testid="dropdown-label"
+      >
+        Качество
+      </h3>
+      <div
+        class="_dropdown_b2c890"
+        data-testid="dropdown-container"
+      >
+        <div
+          class="_title_b2c890"
+          data-testid="dropdown-header"
+        >
+          360p
+          <svg
+            class="icon icon-arrow _icon_b2c890"
+            data-testid="icon"
+            height="11"
+            stroke=""
+            width="11"
+          >
+            <use
+              xlink:href="/src/assets/img/general/icons.svg#arrow"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_accordion_7e54ec"
+      data-testid="accordion"
+    >
+      <div
+        class="_header_7e54ec"
+        data-testid="accordion-header"
+      >
+        <div
+          class="_square_7e54ec"
+        >
+          <svg
+            class="icon icon-plus _icon_7e54ec"
+            data-testid="icon"
+            height="14"
+            stroke=""
+            width="14"
+          >
+            <use
+              xlink:href="/src/assets/img/general/icons.svg#plus"
+            />
+          </svg>
+        </div>
+        <h3
+          class="_title_7e54ec"
+        >
+          Дополнительные настройки
+        </h3>
+      </div>
+      <div
+        class="_body_7e54ec"
+        data-testid="accordion-body"
+        style="max-height: 0px;"
+      >
+        <div
+          class="_content_7e54ec"
+        >
+          <div
+            class="_container_02ec06"
+          >
+            <div>
+              <h3
+                class="_label_b2c890"
+                data-testid="dropdown-label"
+              >
+                Кадры в секунду (FPS)
+              </h3>
+              <div
+                class="_dropdown_b2c890"
+                data-testid="dropdown-container"
+              >
+                <div
+                  class="_title_b2c890"
+                  data-testid="dropdown-header"
+                >
+                  24 FPS
+                  <svg
+                    class="icon icon-arrow _icon_b2c890"
+                    data-testid="icon"
+                    height="11"
+                    stroke=""
+                    width="11"
+                  >
+                    <use
+                      xlink:href="/src/assets/img/general/icons.svg#arrow"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div>
+              <h3
+                class="_label_b2c890"
+                data-testid="dropdown-label"
+              >
+                Аудиоканал
+              </h3>
+              <div
+                class="_dropdown_b2c890"
+                data-testid="dropdown-container"
+              >
+                <div
+                  class="_title_b2c890"
+                  data-testid="dropdown-header"
+                >
+                  Стерео
+                  <svg
+                    class="icon icon-arrow _icon_b2c890"
+                    data-testid="icon"
+                    height="11"
+                    stroke=""
+                    width="11"
+                  >
+                    <use
+                      xlink:href="/src/assets/img/general/icons.svg#arrow"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;

@@ -1,0 +1,25 @@
+.crop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.line {
+  width: 32px;
+  height: 2px;
+  border-radius: 3px;
+  background: var(--color-primary);
+  margin: 0px 10px;
+}
+
+.input {
+  &::-webkit-calendar-picker-indicator {
+    background: none;
+    display: none;
+  }
+
+  &:invalid {
+    border: 1px solid var(--color-red);
+  }
+}

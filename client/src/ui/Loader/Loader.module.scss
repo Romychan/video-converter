@@ -1,0 +1,24 @@
+.container {
+  height: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  background: var(--color-secondary);
+  border-radius: 50px;
+}
+
+.progress {
+  height: 100%;
+  background: var(--color-primary);
+  border-radius: inherit;
+  transition: 0.2s;
+}
+
+.label {
+  margin-left: 1rem;
+}

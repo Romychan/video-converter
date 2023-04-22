@@ -1,0 +1,667 @@
+// Vitest Snapshot v1
+
+exports[`Converter > should match snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="_section_637105"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="_container_637105"
+          >
+            <div
+              class="_container_4f4857"
+            >
+              <div
+                class="_container_4b116b _title_4f4857"
+              >
+                <a
+                  class="_link_4b116b"
+                  data-testid="title-link"
+                  href="/upload"
+                >
+                  <svg
+                    class="icon icon-arrow-back _icon_4b116b"
+                    data-testid="icon"
+                    height="21"
+                    stroke=""
+                    width="21"
+                  >
+                    <use
+                      xlink:href="/src/assets/img/general/icons.svg#arrow-back"
+                    />
+                  </svg>
+                  <h1
+                    class="_title_4b116b title"
+                  >
+                    Конвертирование видео
+                  </h1>
+                </a>
+              </div>
+              <div
+                class="_content_4f4857"
+              >
+                <div
+                  class="_settings_a99094"
+                >
+                  <div
+                    class="_container_a99094"
+                  >
+                    <div
+                      class="_container_484ed2"
+                    >
+                      <h3
+                        class="_label_484ed2"
+                      >
+                        Обрезать видео
+                      </h3>
+                      <div
+                        class="_crop_3d483c"
+                      >
+                        <input
+                          class="_input_76cf42 _input_3d483c"
+                          data-testid="input-field"
+                          max="00:00:10"
+                          min="00:00:00"
+                          step="1"
+                          type="time"
+                          value="00:00:00"
+                        />
+                        <div
+                          class="_line_3d483c"
+                        />
+                        <input
+                          class="_input_76cf42 _input_3d483c"
+                          data-testid="input-field"
+                          max="00:00:10"
+                          min="00:00:00"
+                          step="1"
+                          type="time"
+                          value="00:00:00"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      <h3
+                        class="_label_b2c890"
+                        data-testid="dropdown-label"
+                      >
+                        Формат
+                      </h3>
+                      <div
+                        class="_dropdown_b2c890"
+                        data-testid="dropdown-container"
+                      >
+                        <div
+                          class="_title_b2c890"
+                          data-testid="dropdown-header"
+                        >
+                          .MP4
+                          <svg
+                            class="icon icon-arrow _icon_b2c890"
+                            data-testid="icon"
+                            height="11"
+                            stroke=""
+                            width="11"
+                          >
+                            <use
+                              xlink:href="/src/assets/img/general/icons.svg#arrow"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3
+                        class="_label_b2c890"
+                        data-testid="dropdown-label"
+                      >
+                        Качество
+                      </h3>
+                      <div
+                        class="_dropdown_b2c890"
+                        data-testid="dropdown-container"
+                      >
+                        <div
+                          class="_title_b2c890"
+                          data-testid="dropdown-header"
+                        >
+                          360p
+                          <svg
+                            class="icon icon-arrow _icon_b2c890"
+                            data-testid="icon"
+                            height="11"
+                            stroke=""
+                            width="11"
+                          >
+                            <use
+                              xlink:href="/src/assets/img/general/icons.svg#arrow"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="_accordion_7e54ec"
+                      data-testid="accordion"
+                    >
+                      <div
+                        class="_header_7e54ec"
+                        data-testid="accordion-header"
+                      >
+                        <div
+                          class="_square_7e54ec"
+                        >
+                          <svg
+                            class="icon icon-plus _icon_7e54ec"
+                            data-testid="icon"
+                            height="14"
+                            stroke=""
+                            width="14"
+                          >
+                            <use
+                              xlink:href="/src/assets/img/general/icons.svg#plus"
+                            />
+                          </svg>
+                        </div>
+                        <h3
+                          class="_title_7e54ec"
+                        >
+                          Дополнительные настройки
+                        </h3>
+                      </div>
+                      <div
+                        class="_body_7e54ec"
+                        data-testid="accordion-body"
+                        style="max-height: 0px;"
+                      >
+                        <div
+                          class="_content_7e54ec"
+                        >
+                          <div
+                            class="_container_02ec06"
+                          >
+                            <div>
+                              <h3
+                                class="_label_b2c890"
+                                data-testid="dropdown-label"
+                              >
+                                Кадры в секунду (FPS)
+                              </h3>
+                              <div
+                                class="_dropdown_b2c890"
+                                data-testid="dropdown-container"
+                              >
+                                <div
+                                  class="_title_b2c890"
+                                  data-testid="dropdown-header"
+                                >
+                                  24 FPS
+                                  <svg
+                                    class="icon icon-arrow _icon_b2c890"
+                                    data-testid="icon"
+                                    height="11"
+                                    stroke=""
+                                    width="11"
+                                  >
+                                    <use
+                                      xlink:href="/src/assets/img/general/icons.svg#arrow"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3
+                                class="_label_b2c890"
+                                data-testid="dropdown-label"
+                              >
+                                Аудиоканал
+                              </h3>
+                              <div
+                                class="_dropdown_b2c890"
+                                data-testid="dropdown-container"
+                              >
+                                <div
+                                  class="_title_b2c890"
+                                  data-testid="dropdown-header"
+                                >
+                                  Стерео
+                                  <svg
+                                    class="icon icon-arrow _icon_b2c890"
+                                    data-testid="icon"
+                                    height="11"
+                                    stroke=""
+                                    width="11"
+                                  >
+                                    <use
+                                      xlink:href="/src/assets/img/general/icons.svg#arrow"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    class="_button_b22f72 _button_a99094 _primary_b22f72"
+                  >
+                    Конвертировать
+                  </button>
+                </div>
+                <div
+                  class="_container_443994"
+                >
+                  <video
+                    class="_video_443994"
+                    data-testid="video-player"
+                    src="test"
+                  />
+                  <div
+                    class="_controls_443994"
+                  >
+                    <input
+                      aria-label="Timeline"
+                      class="_timeline_2c5235"
+                      max="100"
+                      min="0"
+                      type="range"
+                      value="0"
+                    />
+                    <div
+                      class="_actions_449f60"
+                    >
+                      <button
+                        class="_square_449f60"
+                        data-testid="actions-button"
+                      >
+                        <div
+                          class="_playback_449f60"
+                          data-testid="actions-playing"
+                        />
+                      </button>
+                      <p
+                        class="text text_small"
+                      >
+                        00:00:00
+                         / 
+                        00:00:00
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="_section_637105"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="_container_637105"
+        >
+          <div
+            class="_container_4f4857"
+          >
+            <div
+              class="_container_4b116b _title_4f4857"
+            >
+              <a
+                class="_link_4b116b"
+                data-testid="title-link"
+                href="/upload"
+              >
+                <svg
+                  class="icon icon-arrow-back _icon_4b116b"
+                  data-testid="icon"
+                  height="21"
+                  stroke=""
+                  width="21"
+                >
+                  <use
+                    xlink:href="/src/assets/img/general/icons.svg#arrow-back"
+                  />
+                </svg>
+                <h1
+                  class="_title_4b116b title"
+                >
+                  Конвертирование видео
+                </h1>
+              </a>
+            </div>
+            <div
+              class="_content_4f4857"
+            >
+              <div
+                class="_settings_a99094"
+              >
+                <div
+                  class="_container_a99094"
+                >
+                  <div
+                    class="_container_484ed2"
+                  >
+                    <h3
+                      class="_label_484ed2"
+                    >
+                      Обрезать видео
+                    </h3>
+                    <div
+                      class="_crop_3d483c"
+                    >
+                      <input
+                        class="_input_76cf42 _input_3d483c"
+                        data-testid="input-field"
+                        max="00:00:10"
+                        min="00:00:00"
+                        step="1"
+                        type="time"
+                        value="00:00:00"
+                      />
+                      <div
+                        class="_line_3d483c"
+                      />
+                      <input
+                        class="_input_76cf42 _input_3d483c"
+                        data-testid="input-field"
+                        max="00:00:10"
+                        min="00:00:00"
+                        step="1"
+                        type="time"
+                        value="00:00:00"
+                      />
+                    </div>
+                  </div>
+                  <div>
+                    <h3
+                      class="_label_b2c890"
+                      data-testid="dropdown-label"
+                    >
+                      Формат
+                    </h3>
+                    <div
+                      class="_dropdown_b2c890"
+                      data-testid="dropdown-container"
+                    >
+                      <div
+                        class="_title_b2c890"
+                        data-testid="dropdown-header"
+                      >
+                        .MP4
+                        <svg
+                          class="icon icon-arrow _icon_b2c890"
+                          data-testid="icon"
+                          height="11"
+                          stroke=""
+                          width="11"
+                        >
+                          <use
+                            xlink:href="/src/assets/img/general/icons.svg#arrow"
+                          />
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3
+                      class="_label_b2c890"
+                      data-testid="dropdown-label"
+                    >
+                      Качество
+                    </h3>
+                    <div
+                      class="_dropdown_b2c890"
+                      data-testid="dropdown-container"
+                    >
+                      <div
+                        class="_title_b2c890"
+                        data-testid="dropdown-header"
+                      >
+                        360p
+                        <svg
+                          class="icon icon-arrow _icon_b2c890"
+                          data-testid="icon"
+                          height="11"
+                          stroke=""
+                          width="11"
+                        >
+                          <use
+                            xlink:href="/src/assets/img/general/icons.svg#arrow"
+                          />
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="_accordion_7e54ec"
+                    data-testid="accordion"
+                  >
+                    <div
+                      class="_header_7e54ec"
+                      data-testid="accordion-header"
+                    >
+                      <div
+                        class="_square_7e54ec"
+                      >
+                        <svg
+                          class="icon icon-plus _icon_7e54ec"
+                          data-testid="icon"
+                          height="14"
+                          stroke=""
+                          width="14"
+                        >
+                          <use
+                            xlink:href="/src/assets/img/general/icons.svg#plus"
+                          />
+                        </svg>
+                      </div>
+                      <h3
+                        class="_title_7e54ec"
+                      >
+                        Дополнительные настройки
+                      </h3>
+                    </div>
+                    <div
+                      class="_body_7e54ec"
+                      data-testid="accordion-body"
+                      style="max-height: 0px;"
+                    >
+                      <div
+                        class="_content_7e54ec"
+                      >
+                        <div
+                          class="_container_02ec06"
+                        >
+                          <div>
+                            <h3
+                              class="_label_b2c890"
+                              data-testid="dropdown-label"
+                            >
+                              Кадры в секунду (FPS)
+                            </h3>
+                            <div
+                              class="_dropdown_b2c890"
+                              data-testid="dropdown-container"
+                            >
+                              <div
+                                class="_title_b2c890"
+                                data-testid="dropdown-header"
+                              >
+                                24 FPS
+                                <svg
+                                  class="icon icon-arrow _icon_b2c890"
+                                  data-testid="icon"
+                                  height="11"
+                                  stroke=""
+                                  width="11"
+                                >
+                                  <use
+                                    xlink:href="/src/assets/img/general/icons.svg#arrow"
+                                  />
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <h3
+                              class="_label_b2c890"
+                              data-testid="dropdown-label"
+                            >
+                              Аудиоканал
+                            </h3>
+                            <div
+                              class="_dropdown_b2c890"
+                              data-testid="dropdown-container"
+                            >
+                              <div
+                                class="_title_b2c890"
+                                data-testid="dropdown-header"
+                              >
+                                Стерео
+                                <svg
+                                  class="icon icon-arrow _icon_b2c890"
+                                  data-testid="icon"
+                                  height="11"
+                                  stroke=""
+                                  width="11"
+                                >
+                                  <use
+                                    xlink:href="/src/assets/img/general/icons.svg#arrow"
+                                  />
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <button
+                  class="_button_b22f72 _button_a99094 _primary_b22f72"
+                >
+                  Конвертировать
+                </button>
+              </div>
+              <div
+                class="_container_443994"
+              >
+                <video
+                  class="_video_443994"
+                  data-testid="video-player"
+                  src="test"
+                />
+                <div
+                  class="_controls_443994"
+                >
+                  <input
+                    aria-label="Timeline"
+                    class="_timeline_2c5235"
+                    max="100"
+                    min="0"
+                    type="range"
+                    value="0"
+                  />
+                  <div
+                    class="_actions_449f60"
+                  >
+                    <button
+                      class="_square_449f60"
+                      data-testid="actions-button"
+                    >
+                      <div
+                        class="_playback_449f60"
+                        data-testid="actions-playing"
+                      />
+                    </button>
+                    <p
+                      class="text text_small"
+                    >
+                      00:00:00
+                       / 
+                      00:00:00
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/symbol" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <symbol viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="arrow-back">
+    <path d="M16.625 10.5H4.375" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.5 16.6249L4.375 10.4999L10.5 4.37488" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol viewBox="0 0 13 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+    id="plus">
+    <path d="M6.60547 1V11" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M1.44629 6H11.7651" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+
+  <symbol viewBox="0 0 13 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+    id="minus">
+    <path d="M1.44629 6H11.7651" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+
+  <symbol viewBox="0 0 14 8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+    id="arrow">
+    <path d="M13 6.66602L7 1.33268L1 6.66602" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+
+  <symbol viewBox="0 0 111 78" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+    id="upload-video">
+    <path d="M97.6297 10.9683C97.0913 8.81731 95.9948 6.84646 94.451 5.25485C92.9071 3.66324 90.9706 2.50723 88.8369 1.90359C81.0413 4.05225e-07 49.8586 0 49.8586 0C49.8586 0 18.6759 1.35075e-07 10.8803 2.08489C8.74664 2.68853 6.8101 3.84453 5.26624 5.43615C3.72237 7.02776 2.62587 8.9986 2.08748 11.1496C0.660756 19.0611 -0.0371311 27.0868 0.0025909 35.1258C-0.0482654 43.2254 0.649666 51.3123 2.08748 59.2833C2.68103 61.3675 3.8021 63.2634 5.34237 64.7878C6.88263 66.3122 8.79003 67.4135 10.8803 67.9855C18.6759 70.0703 49.8586 70.0703 49.8586 70.0703C49.8586 70.0703 81.0413 70.0703 88.8369 67.9855C90.9706 67.3818 92.9071 66.2258 94.451 64.6342C95.9948 63.0426 97.0913 61.0717 97.6297 58.9207C99.0454 51.0688 99.7433 43.1043 99.7146 35.1258C99.7655 27.0263 99.0675 18.9394 97.6297 10.9683Z" fill="#EBEBEB"/>
+    <path d="M39.6609 48.4225C39.6609 49.1025 40.3948 49.5294 40.9859 49.1932L64.3668 35.8966C64.9646 35.5566 64.9646 34.6951 64.3668 34.3552L40.9859 21.0585C40.3948 20.7224 39.6609 21.1493 39.6609 21.8292V48.4225Z" fill="white" stroke="white" stroke-width="9.06473" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="90.6076" cy="57.5532" r="20.3924" fill="#040303"/>
+    <path d="M95.1393 62.0848L90.6077 57.5532L86.076 62.0848" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M90.6076 57.5532V67.7494" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100.113 64.7925C101.218 64.1901 102.091 63.2369 102.594 62.0833C103.097 60.9297 103.201 59.6414 102.891 58.4218C102.58 57.2022 101.873 56.1207 100.879 55.348C99.8859 54.5752 98.6635 54.1553 97.405 54.1545H95.9776C95.6347 52.8281 94.9955 51.5968 94.1082 50.553C93.2209 49.5092 92.1085 48.6801 90.8547 48.1281C89.6008 47.5761 88.2382 47.3155 86.8691 47.366C85.5001 47.4164 84.1603 47.7766 82.9504 48.4193C81.7406 49.0621 80.6922 49.9708 79.8842 51.077C79.0761 52.1833 78.5293 53.4584 78.2849 54.8064C78.0405 56.1544 78.1049 57.5402 78.4732 58.8598C78.8415 60.1793 79.5042 61.3982 80.4114 62.4247" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M95.1393 62.0848L90.6077 57.5532L86.076 62.0848" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol viewBox="0 0 75 75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+    id="error">
+    <path d="M37.5 75C58.2107 75 75 58.2107 75 37.5C75 16.7893 58.2107 0 37.5 0C16.7893 0 0 16.7893 0 37.5C0 58.2107 16.7893 75 37.5 75Z" fill="#FF4158"/>
+    <path d="M51.0015 24.0015L24.0015 51.0015" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24.0015 24.0015L51.0015 51.0015" stroke="white" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol viewBox="0 0 76 76" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+      id="success">
+    <path d="M38 75.5C58.7107 75.5 75.5 58.7107 75.5 38C75.5 17.2893 58.7107 0.5 38 0.5C17.2893 0.5 0.5 17.2893 0.5 38C0.5 58.7107 17.2893 75.5 38 75.5Z" fill="#01CC8F"/>
+    <path d="M53.2273 28L30.7273 50.5L20.5 40.2727" stroke="white" stroke-width="7.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+</svg>
